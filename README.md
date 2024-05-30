@@ -60,15 +60,16 @@ As a developer, I want to create notes or code snippets with or without an inter
 
 
 ## Mock-Up:
-The following animation demonstrates the application functionality:
+The following animation demonstrates the application:
 
-![Demonstration](./Assets.gif)
+View of the Home Page: ![The view of the home page](./assets/pwa-jate-homepage.png)
 
+Confirming Local Storage: ![JATE showing the local storage feature](./assets/pwa-jate-localstorage.png)
 
 
 ## The Deployment:
 
 The Repository: [Click Here.](https://github.com/NovaLanceBrittany/HW-19-PWA-Text-Editor)
 
-The Render: [Click Here.](https)
+The Render: [Click Here.](https://hw-19-pwa-text-editor.onrender.com)
 
